@@ -31,4 +31,6 @@ def find_the_cheese(array)
       TRUE
     else
       FALSE
+    end
+  end
 end
