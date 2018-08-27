@@ -33,4 +33,5 @@ def find_the_cheese(array)
       FALSE
     end
   end
+  array
 end
